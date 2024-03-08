@@ -1,9 +1,9 @@
 import React from 'react';
-import About from '../assets/pic-work-03.jpg';
+import About from '../assets/about.jpg';
 import Card from './Card';
 import Form from './Form';
-import Icon1 from '../assets/favicon.jpg'
-import Icon2 from '../assets/holberton-logo.jpeg'
+import Icon1 from '../assets/Frame 36.png'
+import Icon2 from '../assets/Group 2.png'
 
 
 function Homepage() {
@@ -33,7 +33,9 @@ function Homepage() {
           <div className="col-md-6">
             <p className='text-danger'>TRANSPORTATION COMPANY</p>
             <h2>We Provide Full Range Logistics Solution</h2>
-            <p>We strongly believe that pursuing all of these goals is our interest of all our stakeholders and customers, employees, investors and the planet as a whole. We add value to cargo peoples interaction with us, We strongly believe that pursuing all of these goals is our interest of all our stakeholders and customers, employees, investors and the planet as a whole.</p>
+            <p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all of our stakeholders are us customers, employees, investors and the planet as a whole. We add value to cargo people’s interaction with us, with excellent services or products. Engaging our employees and nurture investment on the stock holds market we show concern , by engaging our employees and nurture investment on the stock holds market we show concern.
+
+Learn More.</p>
             <a href="" className="btn btn-danger">Learn More</a>
           </div>
         </div>
@@ -42,7 +44,7 @@ function Homepage() {
       <div className="container pt-5"> 
         <div className="text-center">
           <p className="text-danger">TYPES OF LOGISTICS</p>
-          <h2>Covering All Looistics Field</h2>
+          <h2>Covering All Logistics Fields</h2>
         </div>
 
         <Card/>
@@ -57,8 +59,8 @@ function Homepage() {
         <div className="container pt-5">
           <div className="row d-flex justify-content-center">
             <div className="col-md-8">
-              <h2>Delivering your worlf one package at a time</h2>
-              <p>Crystal Ahipmebt is more than just Logistics.</p>
+              <h2>Delivering your world one package at a time</h2>
+              <p>Crystal shipment is more than just Logistics.</p>
             </div>
             <div className="col-md-4 text-md-end text-sm-end">
               <a href="" className="btn btn-danger">Request a Quote</a>
@@ -87,7 +89,7 @@ function Homepage() {
                 </div>
                 <div className="flex-grow-1 ms-2">
                   <h4>Carefully handling valuable goods</h4>
-                  <p>Efficiently unleash crossmedia information without crossmedia value</p>
+                  <p>Cargo HUB are transported at some stage of their journey along the world’s roads</p>
                 </div>
               </div>
 
@@ -97,7 +99,7 @@ function Homepage() {
                 </div>
                 <div className="flex-grow-1 ms-2">
                   <h4>Mobile shipment tracking</h4>
-                  <p>Efficiently unleash crossmedia information without crossmedia value</p>
+                  <p>We Offers intelligent concepts for road and tail and well as complex special transport services</p>
                 </div>
               </div>
 
@@ -108,7 +110,6 @@ function Homepage() {
           </div>
         </div>
       </div>
-
     </>
   )
 }

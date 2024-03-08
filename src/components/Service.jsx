@@ -1,6 +1,6 @@
 import React from 'react'
 import Card2 from './Card2'
-import Pic7 from '../assets/pic-person-03.jpg'
+import Pic7 from '../assets/r15.png'
 
 function Service() {
   return (
@@ -22,7 +22,7 @@ function Service() {
         <div className="col-md-6">
           <h2>THE COMPLETE SOLUTION</h2>
           <div className="bg-red mb-3"></div>
-          <p>Our Warehousing services are known nationwide. freight Some quick example text to build on the card title and make up the bulk of the card's solutions. freight Some quick example text to build on the card title and make up the bulk of the card's solutions. freight Some quick example text to build on the card title and make up the bulk of the card's solutions</p>
+          <p>Our warehousing services are known nationwide to be one of the most reliable, safe and affordable, because we take pride in delivering the best of warehousing services, at the most reasonable prices. Pleasure and praising pain was born and I will give you a complete account of system, and expound actual teachings occasionally circumstances.</p>
         </div>
       </div>
     </div>

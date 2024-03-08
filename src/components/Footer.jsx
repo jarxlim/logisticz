@@ -1,8 +1,8 @@
 import React from 'react'
-import Pic2 from "../assets/pic-work-02.jpg";
-import Pic3 from '../assets/pic-blog-03.jpg';
-import About from '../assets/pic-work-03.jpg';
-import Pic4 from '../assets/pic-person-02.jpg';
+import Pic2 from "../assets/r8.png";
+import Pic3 from '../assets/r9.png';
+import pic5 from '../assets/r11.png';
+import Pic4 from '../assets/r10.png';
 
 function Footer() {
   return (
@@ -12,7 +12,7 @@ function Footer() {
         <div className="row">
           <div className="col-md-3">
             <h4>CRYSTAL SHIPMENT</h4>
-            <p>Crystsl shipment is a globsal supplier iof transport and logidyic solutions. we have offices in more than 20 countries and international network of partners and agents</p>
+            <p>Crystsl shipment is a global supplier of transport and logistic solutions. we have offices in more than 20 countries and international network of partners and agents</p>
           </div>
           <div className="col-md-3">
             <h4>QUICK LINKS</h4>
@@ -27,7 +27,7 @@ function Footer() {
             <h4>PHOTO GALLERY</h4>
             <div className="d-flex mt-3">
               <div className="flex-grow-1 me-2">
-                <img src={About} alt="" className='img-fluid rounded' />
+                <img src={pic5} alt="" className='img-fluid rounded' />
                 </div>
                 <div className="flex-grow-1 ms-2">
                 <img src={Pic4} alt="" className='img-fluid' />
@@ -52,6 +52,7 @@ function Footer() {
           </div>
         </div>
       </div>
+      <p className='text-center'>© Copyright 2023 All Right Reserved.</p>
     </div>
     </>
   )

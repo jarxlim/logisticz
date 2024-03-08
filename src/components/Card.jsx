@@ -1,7 +1,7 @@
 import React from 'react'
-import Pic2 from "../assets/pic-work-02.jpg";
-import Pic3 from '../assets/pic-blog-03.jpg';
-import Pic4 from '../assets/pic-person-02.jpg';
+import Pic2 from "../assets/r2.png";
+import Pic3 from '../assets/r3.png';
+import Pic4 from '../assets/r4.png';
 
 function Card() {
   return (
@@ -12,7 +12,7 @@ function Card() {
               <img src={Pic2} className="card-img-top" alt="..."/>
               <div className="card-body">
                 <h4 className="card-title">Air Freight</h4>
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content... <a href="" className="text-danger text-decoration">Read more</a></p>
+                <p className="card-text">As a leader in global air freight forwarding, OIA Global excels in providing tailored transportation... <a href="" className="text-danger text-decoration">Read more</a></p>
               </div>
             </div>
           </div>
@@ -20,8 +20,8 @@ function Card() {
             <div className="card" style={{width: '18rem'}}>
                 <img src={Pic3} className="card-img-top" alt="..."/>
                 <div className="card-body">
-                  <h4 className="card-title">Land Freight</h4>
-                  <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content... <a href="" className="text-danger text-decoration">Read more</a></p>
+                  <h4 className="card-title">Sea Freight</h4>
+                  <p className="card-text">Sea Freight plays perhaps the most vital role in most transportation and supply chain a solutions... <a href="" className="text-danger text-decoration">Read more</a></p>
                 </div>
               </div>
           </div>
@@ -29,8 +29,8 @@ function Card() {
             <div className="card" style={{width: '18rem'}}>
                 <img src={Pic4} className="card-img-top" style={{height: '12rem'}} alt="..."/>
                 <div className="card-body">
-                  <h4 className="card-title">Sea Freight</h4>
-                  <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content... <a href="" className="text-danger text-decoration">Read more</a></p>
+                  <h4 className="card-title">Land Freight</h4>
+                  <p className="card-text">Cargo are transported at some stage of their journey along the world’s roads where we give... <a href="" className="text-danger text-decoration">Read more</a></p>
                 </div>
               </div>
           </div>
