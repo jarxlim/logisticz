@@ -17,7 +17,7 @@ function Card2() {
                 ]
                 return (
                     <>
-                    <div className="row">
+                    <div className="row mx-5 " data-aos='fade-up'>
                     {cardData.map((card, index) => (
                         <div className="col-md-4 mb-5">
                         <div className="card">

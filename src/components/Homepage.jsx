@@ -13,7 +13,7 @@ function Homepage() {
         <div className='container text-light text-center pt-5'>
           <h1 className='pt-5' style={{marginTop: '60px'}}>Easy & Quick Cargo Shipping Services</h1>
           <p className="subtitle">Book low cost sea freight services. Get an instant quote</p>
-          <a href='' className="btn btn-danger text-light">Track Goods</a>
+          <a href='/tracking' className="btn btn-danger text-light">Track Goods</a>
         </div>
       </div>
 
